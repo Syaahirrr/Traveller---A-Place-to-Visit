@@ -1,1 +1,1 @@
-# Traveller - A Place to Visit
+# friendlytraveller.com
